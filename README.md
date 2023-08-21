@@ -1,6 +1,6 @@
 ## Task list
 
-To launch this app you need make sure that you have [Laravel](https://laravel.com/) installed.
+To launch this app you need to make sure that you have [Laravel](https://laravel.com/) installed.
 
 Set up new database using docker-compose file, or connect exiting one.
 
